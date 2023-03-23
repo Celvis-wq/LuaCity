@@ -4,7 +4,6 @@
 -- This is just an exercise
 
 -- Locations
--- Locations
 -- TODO: Add more cities
 local cities = {
     {name = "New York", location = {latitude = 40.7128, longitude = -74.0060}},
